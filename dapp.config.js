@@ -5,8 +5,8 @@ const config = {
   description: 'TRT DAPP',
   contractAddress: '0xFeF77Bc311891e4c1F1Eb5ba7b04F277FC1Eba6A',
   maxMintAmount: 10,
-  WlMaxMintAmount: 5,
-  firstCost :0.01 ,
+  WlMaxMintAmount: 10,
+  firstCost :0,
   wlcost: 0.01,
   publicSalePrice:0.02,
   maxPerTxWL : 5
